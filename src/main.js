@@ -8,7 +8,7 @@ import router from './router'
 import './assets/css/base.css'
 import './assets/css/index.css'
 
-
+//配置Axios
 Vue.use(VueAxios, Axios)
 
 Vue.config.productionTip = false
