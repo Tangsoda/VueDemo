@@ -1,3 +1,6 @@
+# VueDemo
+Vue 购物车,和地址选择功能
+
 # default
 
 ## Project setup
@@ -27,3 +30,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+
